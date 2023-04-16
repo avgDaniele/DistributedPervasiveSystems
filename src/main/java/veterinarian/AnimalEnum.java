@@ -1,5 +1,5 @@
 package veterinarian;
 
-public enum Animal {
+public enum AnimalEnum {
     CAT, DOG
 }

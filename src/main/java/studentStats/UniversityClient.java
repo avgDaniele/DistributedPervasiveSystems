@@ -1,2 +1,4 @@
-package studentStats;public class UniversityClient {
+package studentStats;
+
+public class UniversityClient {
 }
